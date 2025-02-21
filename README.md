@@ -36,7 +36,5 @@ This project is a fitness app developed with React Native which enables users to
 ![Screenshot 2024-04-21 103108](https://github.com/Charanreddy15/LetsGo/assets/88894507/aa390855-38a4-4c15-b6de-5e726673599e)
 ![Screenshot 2024-04-21 103416](https://github.com/Charanreddy15/LetsGo/assets/88894507/91e6afec-4f2d-4be9-9ead-85185c4ff452)
 
-## ✅ Video Demonstration of the Project
 
-https://github.com/Charanreddy15/LetsGo/assets/88894507/7fb22014-e829-4b70-a98c-2defe4a4329e
 
